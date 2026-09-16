@@ -9,7 +9,7 @@ require (
 	github.com/kjk/notionapi v0.0.0-20200324071853-a111439018ed
 	github.com/kjk/u v0.0.0-20191229080709-d1ac8976d53f
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/microcosm-cc/bluemonday v1.0.2
+	github.com/microcosm-cc/bluemonday v1.0.16
 	github.com/oklog/ulid v1.3.1
 	github.com/rs/xid v1.2.1
 	github.com/satori/go.uuid v1.2.0
